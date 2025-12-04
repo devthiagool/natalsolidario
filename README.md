@@ -1,6 +1,7 @@
 Antes de Utilizar execute no MySQL
 
 CREATE DATABASE natal_solidario_jmf;
+
 USE natal_solidario_jmf;
 
 CREATE TABLE usuarios (
